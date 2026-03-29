@@ -30,9 +30,9 @@
 # calc_avg(1,2,3)
 
 #{default parameter}
-def calc_prod(a, b=8):
-    print(a*b)
-    return a*b
-calc_prod(1)
-#more value
-calc_prod(3)
+# def calc_prod(a, b=8):
+#     print(a*b)
+#     return a*b
+# calc_prod(1)
+# #more value
+# calc_prod(3)
